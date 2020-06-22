@@ -1,7 +1,7 @@
 {
   "name": "tailwind-css-test-app",
   "version": "1.0.0",
-  "description": "Tailwind CSS Test App",
+  "description": "Metal.net Tailwind CSS Responsive Website",
   "main": "index.js",
   "scripts": {
     "build:css": "tailwind build src/style.css -o dist/style.css"

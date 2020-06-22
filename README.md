@@ -1,4 +1,4 @@
-# Tailwind CSS Responsive App
+# Metal.net Tailwind CSS Responsive Website
 
 https://stefanljiljak.github.io/tailwind-css-responsive-app/
 
