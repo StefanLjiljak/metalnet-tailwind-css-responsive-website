@@ -4,23 +4,19 @@ const cardModal = document.querySelector('#cardModal')
 const headbang = document.querySelector('#headbang')
 const influence = document.querySelector('#influence')
 
-alertModal.addEventListener('click', (e) => {
-    console.log('play', e.target)
+alertModal.addEventListener('click', () => {
     audio.play()
 })
 
-cardModal.addEventListener('click', (e) => {
-    console.log('play', e.target)
+cardModal.addEventListener('click', () => {
     audio.play()
 })
 
-headbang.addEventListener('click', (e) => {
-    console.log('play', e.target)
+headbang.addEventListener('click', () => {
     audio.play()
 })
 
-influence.addEventListener('click', (e) => {
-    console.log('play', e.target)
+influence.addEventListener('click', () => {
     audio.play()
 })
 
